@@ -1,0 +1,4 @@
+*.csv
+statfile.txt
+oldstatfile.txt
+PlayerFile.txt
