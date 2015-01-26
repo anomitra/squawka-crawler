@@ -1,0 +1,21 @@
+(lp0
+(dp1
+S'crawled'
+p2
+I0
+sS'name'
+p3
+S'Stefano Gori'
+p4
+sS'slug'
+p5
+S'stefano-gori'
+p6
+sa(dp7
+g2
+I0
+sg3
+g4
+sg5
+g6
+sa.
